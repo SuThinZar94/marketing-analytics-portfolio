@@ -1,0 +1,501 @@
+respondent_id,date,region,age_group,gender,brand_awareness,nps_score,satisfaction_score
+R00001,2025-02-10,Bangkok,35-44,Female,No Awareness,-66,5
+R00002,2025-03-08,Bangkok,55+,Male,Aided,82,1
+R00003,2025-03-09,Bangkok,25-34,Female,No Awareness,-87,2
+R00004,2025-02-28,South,45-54,Male,Aided,76,2
+R00005,2025-02-28,Isan,25-34,Female,Unaided,1,4
+R00006,2025-03-14,Bangkok,55+,Other,Unaided,-1,5
+R00007,2025-03-15,Bangkok,55+,Other,Aided,-94,5
+R00008,2025-02-21,South,25-34,Other,Aided,-71,2
+R00009,2025-02-24,Isan,45-54,Other,No Awareness,-52,1
+R00010,2025-03-14,Bangkok,25-34,Male,Unaided,43,1
+R00011,2025-03-12,Chiang Mai,55+,Female,No Awareness,10,1
+R00012,2025-02-02,South,55+,Other,No Awareness,78,5
+R00013,2025-03-27,Bangkok,35-44,Male,Unaided,-29,4
+R00014,2025-02-08,Bangkok,35-44,Other,No Awareness,-21,2
+R00015,2025-03-20,Chiang Mai,18-24,Other,No Awareness,-18,3
+R00016,2025-02-27,Chiang Mai,55+,Male,Aided,-59,4
+R00017,2025-02-22,South,35-44,Male,Aided,-84,3
+R00018,2025-03-09,South,25-34,Female,No Awareness,90,4
+R00019,2025-02-27,Chiang Mai,45-54,Female,Aided,72,1
+R00020,2025-03-29,South,25-34,Other,Unaided,-94,5
+R00021,2025-03-01,Chiang Mai,45-54,Other,No Awareness,54,3
+R00022,2025-02-03,Bangkok,35-44,Female,Aided,-91,4
+R00023,2025-03-16,Chiang Mai,18-24,Female,Aided,-67,5
+R00024,2025-02-13,Chiang Mai,25-34,Male,Unaided,-65,3
+R00025,2025-03-17,Isan,25-34,Female,Aided,52,2
+R00026,2025-02-10,Chiang Mai,25-34,Female,Unaided,-95,4
+R00027,2025-03-08,Chiang Mai,45-54,Other,No Awareness,51,2
+R00028,2025-02-09,Isan,35-44,Female,Unaided,45,1
+R00029,2025-03-26,South,25-34,Other,Unaided,33,2
+R00030,2025-03-28,Isan,25-34,Female,Aided,-72,2
+R00031,2025-03-27,Bangkok,18-24,Male,Unaided,25,4
+R00032,2025-02-27,Isan,18-24,Female,Aided,52,1
+R00033,2025-03-06,Bangkok,35-44,Female,No Awareness,82,2
+R00034,2025-03-23,South,35-44,Female,No Awareness,-20,5
+R00035,2025-02-01,Isan,55+,Other,Unaided,73,3
+R00036,2025-03-04,Isan,18-24,Male,Unaided,51,2
+R00037,2025-02-25,South,55+,Female,No Awareness,-26,1
+R00038,2025-03-01,Bangkok,45-54,Other,No Awareness,-75,2
+R00039,2025-02-07,Isan,55+,Male,Aided,26,3
+R00040,2025-03-21,Bangkok,25-34,Other,Aided,14,1
+R00041,2025-02-03,Isan,55+,Other,Unaided,25,4
+R00042,2025-02-20,Chiang Mai,35-44,Male,No Awareness,-73,1
+R00043,2025-02-20,Isan,45-54,Female,Aided,30,4
+R00044,2025-03-25,South,25-34,Other,Unaided,-26,1
+R00045,2025-03-02,South,55+,Other,Unaided,65,3
+R00046,2025-03-07,Bangkok,45-54,Female,No Awareness,88,3
+R00047,2025-03-07,Isan,45-54,Female,Unaided,-23,1
+R00048,2025-03-21,Bangkok,25-34,Male,Unaided,78,2
+R00049,2025-03-11,Bangkok,55+,Male,Aided,-11,3
+R00050,2025-02-27,Chiang Mai,45-54,Male,Unaided,75,4
+R00051,2025-02-26,Chiang Mai,45-54,Female,Unaided,-80,4
+R00052,2025-02-14,South,18-24,Other,No Awareness,-47,5
+R00053,2025-02-17,Bangkok,45-54,Other,No Awareness,83,4
+R00054,2025-02-18,South,18-24,Male,No Awareness,2,5
+R00055,2025-03-17,Isan,55+,Female,No Awareness,-42,1
+R00056,2025-03-24,Bangkok,55+,Other,Aided,-29,1
+R00057,2025-03-01,Bangkok,55+,Male,No Awareness,78,1
+R00058,2025-02-20,Isan,35-44,Other,Aided,-81,2
+R00059,2025-03-25,Isan,55+,Other,Aided,11,2
+R00060,2025-02-27,South,45-54,Female,No Awareness,-42,5
+R00061,2025-02-18,South,25-34,Female,Unaided,-30,4
+R00062,2025-02-04,Isan,18-24,Other,Aided,36,4
+R00063,2025-02-01,South,35-44,Male,Aided,8,1
+R00064,2025-03-22,Isan,55+,Female,Unaided,28,3
+R00065,2025-02-01,Bangkok,55+,Other,Unaided,56,2
+R00066,2025-03-30,Bangkok,25-34,Female,No Awareness,90,2
+R00067,2025-02-26,Chiang Mai,25-34,Female,No Awareness,99,1
+R00068,2025-03-17,Bangkok,35-44,Female,Aided,-45,2
+R00069,2025-02-20,Isan,18-24,Other,Unaided,95,1
+R00070,2025-03-24,South,55+,Male,Unaided,-66,5
+R00071,2025-02-23,Chiang Mai,35-44,Male,No Awareness,22,4
+R00072,2025-02-10,South,45-54,Male,Aided,30,3
+R00073,2025-03-31,Isan,45-54,Female,Unaided,3,4
+R00074,2025-02-11,Bangkok,35-44,Other,Aided,-94,4
+R00075,2025-03-13,Chiang Mai,55+,Female,Unaided,-74,5
+R00076,2025-03-13,Isan,35-44,Male,Aided,-100,2
+R00077,2025-02-05,Chiang Mai,55+,Male,No Awareness,98,3
+R00078,2025-03-30,Chiang Mai,25-34,Other,Aided,71,2
+R00079,2025-02-01,Bangkok,35-44,Female,Aided,-14,4
+R00080,2025-02-17,Isan,55+,Male,Aided,-60,1
+R00081,2025-02-22,South,35-44,Other,Aided,22,4
+R00082,2025-03-06,Chiang Mai,35-44,Female,Aided,-26,2
+R00083,2025-03-28,Chiang Mai,55+,Female,Unaided,-59,4
+R00084,2025-03-17,South,55+,Male,Aided,16,1
+R00085,2025-03-13,Isan,18-24,Male,Unaided,60,5
+R00086,2025-03-01,Chiang Mai,35-44,Female,No Awareness,77,2
+R00087,2025-02-04,Chiang Mai,45-54,Female,Aided,-38,4
+R00088,2025-02-05,Chiang Mai,35-44,Male,No Awareness,64,2
+R00089,2025-02-11,Isan,35-44,Female,Unaided,86,5
+R00090,2025-03-28,Isan,55+,Male,Aided,26,4
+R00091,2025-03-23,South,35-44,Female,Aided,75,4
+R00092,2025-02-21,Isan,35-44,Male,Aided,32,2
+R00093,2025-03-07,Isan,45-54,Other,Unaided,-53,2
+R00094,2025-02-12,Bangkok,55+,Male,Aided,-98,1
+R00095,2025-02-26,South,35-44,Male,Aided,15,5
+R00096,2025-03-23,Chiang Mai,25-34,Other,Unaided,74,1
+R00097,2025-02-19,Isan,18-24,Female,Unaided,89,4
+R00098,2025-03-17,Chiang Mai,45-54,Other,Aided,-2,2
+R00099,2025-02-07,Chiang Mai,35-44,Male,Aided,15,4
+R00100,2025-03-19,Bangkok,25-34,Female,Unaided,-87,4
+R00101,2025-03-27,Isan,35-44,Other,Unaided,90,3
+R00102,2025-02-07,South,35-44,Female,Unaided,11,3
+R00103,2025-02-26,Isan,55+,Female,Aided,-40,4
+R00104,2025-03-12,Chiang Mai,55+,Other,Aided,58,2
+R00105,2025-02-05,South,55+,Female,No Awareness,-6,4
+R00106,2025-02-21,Isan,25-34,Other,No Awareness,-84,3
+R00107,2025-02-14,Chiang Mai,35-44,Male,Aided,23,2
+R00108,2025-02-04,Chiang Mai,18-24,Female,Unaided,-77,4
+R00109,2025-02-23,Bangkok,45-54,Male,Unaided,15,5
+R00110,2025-03-14,Bangkok,55+,Male,Unaided,50,5
+R00111,2025-02-20,Bangkok,55+,Female,No Awareness,-19,4
+R00112,2025-02-15,Chiang Mai,35-44,Other,Aided,-51,2
+R00113,2025-03-22,Isan,35-44,Female,Unaided,-22,4
+R00114,2025-03-24,Bangkok,25-34,Male,Aided,-22,4
+R00115,2025-03-17,Isan,25-34,Male,Aided,-31,3
+R00116,2025-03-01,Bangkok,55+,Other,Aided,-74,5
+R00117,2025-02-08,South,35-44,Female,Unaided,-86,3
+R00118,2025-03-13,South,18-24,Male,No Awareness,-51,3
+R00119,2025-03-20,Bangkok,45-54,Male,Aided,-65,4
+R00120,2025-02-19,Chiang Mai,35-44,Male,Unaided,-93,3
+R00121,2025-03-20,Bangkok,35-44,Other,No Awareness,-22,5
+R00122,2025-03-11,Bangkok,25-34,Male,Unaided,30,3
+R00123,2025-03-18,Chiang Mai,45-54,Male,No Awareness,89,5
+R00124,2025-02-28,South,55+,Female,No Awareness,-54,3
+R00125,2025-03-18,Isan,35-44,Female,Aided,4,5
+R00126,2025-03-29,Bangkok,55+,Male,Aided,-3,3
+R00127,2025-02-27,Chiang Mai,35-44,Male,Unaided,-5,3
+R00128,2025-02-04,Bangkok,55+,Female,No Awareness,88,2
+R00129,2025-03-30,Chiang Mai,45-54,Other,Aided,59,5
+R00130,2025-02-15,Isan,25-34,Other,Aided,15,5
+R00131,2025-03-07,Isan,45-54,Other,No Awareness,-88,5
+R00132,2025-03-09,South,18-24,Other,No Awareness,-100,1
+R00133,2025-02-01,Chiang Mai,25-34,Other,No Awareness,-67,3
+R00134,2025-02-03,Chiang Mai,45-54,Other,Unaided,89,5
+R00135,2025-03-19,South,18-24,Other,No Awareness,-22,1
+R00136,2025-02-24,South,35-44,Other,Aided,-23,2
+R00137,2025-02-27,Chiang Mai,35-44,Female,No Awareness,20,5
+R00138,2025-03-12,South,55+,Other,Aided,-8,5
+R00139,2025-03-08,Isan,25-34,Other,Unaided,-3,1
+R00140,2025-03-06,Bangkok,35-44,Other,Aided,-19,3
+R00141,2025-03-01,Isan,25-34,Male,Aided,98,2
+R00142,2025-02-24,South,35-44,Female,Aided,58,5
+R00143,2025-02-24,Chiang Mai,55+,Female,Unaided,91,3
+R00144,2025-03-14,Chiang Mai,45-54,Female,Aided,52,2
+R00145,2025-02-04,Isan,55+,Other,Unaided,-63,4
+R00146,2025-02-03,Chiang Mai,18-24,Other,No Awareness,-87,4
+R00147,2025-03-06,South,35-44,Male,Aided,35,2
+R00148,2025-03-29,Isan,18-24,Female,Unaided,-10,1
+R00149,2025-03-21,Chiang Mai,18-24,Other,Unaided,-47,2
+R00150,2025-02-23,Bangkok,25-34,Female,Unaided,29,2
+R00151,2025-03-25,Bangkok,35-44,Male,Aided,0,1
+R00152,2025-03-28,South,18-24,Male,Unaided,-12,1
+R00153,2025-03-24,Chiang Mai,45-54,Male,Unaided,-45,3
+R00154,2025-02-23,South,18-24,Female,No Awareness,-7,3
+R00155,2025-03-17,Isan,45-54,Other,No Awareness,-8,1
+R00156,2025-02-05,Bangkok,25-34,Other,Aided,-17,4
+R00157,2025-03-03,Isan,18-24,Male,No Awareness,-16,4
+R00158,2025-03-25,Chiang Mai,55+,Other,Unaided,88,2
+R00159,2025-03-13,South,25-34,Male,Aided,-79,5
+R00160,2025-03-29,South,45-54,Female,Aided,-66,2
+R00161,2025-03-29,South,25-34,Male,Aided,-85,2
+R00162,2025-03-26,Isan,18-24,Female,Aided,-51,5
+R00163,2025-02-06,Bangkok,35-44,Male,Aided,21,1
+R00164,2025-03-09,Isan,35-44,Other,Aided,27,4
+R00165,2025-03-29,Isan,45-54,Other,Aided,12,2
+R00166,2025-02-10,Chiang Mai,45-54,Male,Unaided,70,5
+R00167,2025-03-12,Chiang Mai,35-44,Other,Unaided,-84,3
+R00168,2025-02-07,Chiang Mai,45-54,Other,Unaided,-21,2
+R00169,2025-03-11,Bangkok,25-34,Other,Unaided,85,4
+R00170,2025-03-10,Bangkok,55+,Female,Aided,29,1
+R00171,2025-02-21,Chiang Mai,55+,Other,Unaided,31,2
+R00172,2025-02-20,Chiang Mai,25-34,Female,No Awareness,-16,2
+R00173,2025-02-03,Bangkok,55+,Male,Unaided,66,5
+R00174,2025-03-23,South,18-24,Other,Unaided,-7,3
+R00175,2025-02-22,Bangkok,25-34,Other,Aided,33,3
+R00176,2025-03-19,Bangkok,45-54,Other,Unaided,-20,1
+R00177,2025-02-04,Bangkok,25-34,Male,Aided,-32,4
+R00178,2025-02-28,Chiang Mai,35-44,Female,Aided,-32,1
+R00179,2025-02-12,South,45-54,Female,Unaided,47,2
+R00180,2025-03-10,Bangkok,35-44,Other,Unaided,91,2
+R00181,2025-03-23,Chiang Mai,45-54,Male,Aided,-85,3
+R00182,2025-03-08,Isan,55+,Male,Unaided,-50,4
+R00183,2025-03-19,Isan,25-34,Male,Unaided,4,5
+R00184,2025-03-13,Bangkok,18-24,Male,Unaided,64,4
+R00185,2025-02-05,Isan,45-54,Male,Unaided,100,2
+R00186,2025-02-13,South,45-54,Female,Aided,96,5
+R00187,2025-02-23,Isan,35-44,Female,Aided,69,4
+R00188,2025-03-30,Isan,55+,Female,Aided,84,4
+R00189,2025-03-22,South,35-44,Other,Unaided,-35,5
+R00190,2025-03-02,Bangkok,35-44,Male,Unaided,-92,2
+R00191,2025-03-09,Bangkok,55+,Other,No Awareness,6,4
+R00192,2025-02-25,South,18-24,Male,Aided,-1,5
+R00193,2025-03-20,South,35-44,Female,No Awareness,-15,2
+R00194,2025-02-27,South,35-44,Other,Aided,-37,5
+R00195,2025-03-23,Isan,45-54,Female,Aided,-79,5
+R00196,2025-02-14,South,55+,Male,Aided,61,4
+R00197,2025-03-29,Chiang Mai,25-34,Male,Unaided,82,2
+R00198,2025-03-20,Isan,18-24,Male,Aided,56,4
+R00199,2025-03-31,Bangkok,18-24,Female,Aided,65,1
+R00200,2025-03-19,Bangkok,55+,Male,Unaided,9,1
+R00201,2025-03-26,Bangkok,45-54,Female,Unaided,-4,2
+R00202,2025-03-08,Isan,45-54,Other,Aided,-83,5
+R00203,2025-03-11,Chiang Mai,55+,Male,No Awareness,-30,4
+R00204,2025-02-16,South,45-54,Male,Aided,92,4
+R00205,2025-03-28,South,18-24,Male,Unaided,26,2
+R00206,2025-02-22,Bangkok,18-24,Other,Unaided,-4,2
+R00207,2025-02-21,Bangkok,25-34,Male,Aided,-100,1
+R00208,2025-03-26,Isan,55+,Female,Unaided,31,3
+R00209,2025-02-21,Chiang Mai,35-44,Female,No Awareness,-97,2
+R00210,2025-02-08,South,35-44,Male,Unaided,24,3
+R00211,2025-03-21,Isan,25-34,Male,Aided,-19,2
+R00212,2025-02-16,South,25-34,Other,Aided,-74,5
+R00213,2025-03-31,Bangkok,45-54,Other,No Awareness,70,5
+R00214,2025-03-27,South,25-34,Other,Aided,-42,1
+R00215,2025-03-03,Chiang Mai,25-34,Male,Aided,-69,1
+R00216,2025-03-14,Chiang Mai,35-44,Other,No Awareness,60,3
+R00217,2025-02-10,Bangkok,45-54,Other,Unaided,-73,2
+R00218,2025-03-04,Chiang Mai,25-34,Female,No Awareness,5,4
+R00219,2025-03-31,Chiang Mai,25-34,Other,Unaided,4,1
+R00220,2025-03-06,Isan,45-54,Female,Aided,82,4
+R00221,2025-02-09,South,55+,Female,Aided,87,4
+R00222,2025-02-17,Bangkok,45-54,Other,Unaided,-31,2
+R00223,2025-02-11,Bangkok,35-44,Female,No Awareness,-39,3
+R00224,2025-03-04,Bangkok,55+,Male,Unaided,-67,2
+R00225,2025-02-10,Bangkok,18-24,Male,Unaided,-14,1
+R00226,2025-02-22,Bangkok,45-54,Other,Aided,13,4
+R00227,2025-03-29,Chiang Mai,35-44,Male,Aided,5,2
+R00228,2025-02-17,Isan,55+,Female,Aided,-45,2
+R00229,2025-02-04,Bangkok,45-54,Male,Unaided,12,2
+R00230,2025-03-20,Isan,25-34,Other,Unaided,-88,1
+R00231,2025-03-24,Isan,45-54,Other,Unaided,83,3
+R00232,2025-03-19,Chiang Mai,18-24,Female,Unaided,-83,2
+R00233,2025-02-25,Bangkok,45-54,Other,Aided,81,1
+R00234,2025-03-31,Chiang Mai,55+,Male,Aided,12,4
+R00235,2025-02-21,Bangkok,55+,Other,No Awareness,70,5
+R00236,2025-03-09,Chiang Mai,45-54,Female,No Awareness,-62,1
+R00237,2025-03-10,Isan,55+,Other,Unaided,88,5
+R00238,2025-03-21,Bangkok,25-34,Male,Aided,69,2
+R00239,2025-02-01,South,45-54,Female,Unaided,-22,2
+R00240,2025-02-25,Isan,25-34,Male,Unaided,45,1
+R00241,2025-03-23,South,25-34,Female,Aided,50,5
+R00242,2025-03-08,Isan,35-44,Other,Unaided,81,2
+R00243,2025-02-17,Chiang Mai,45-54,Female,Unaided,-71,4
+R00244,2025-03-13,Bangkok,55+,Female,No Awareness,-3,3
+R00245,2025-02-24,Isan,25-34,Other,Aided,-43,3
+R00246,2025-02-02,Chiang Mai,35-44,Male,Aided,95,2
+R00247,2025-03-12,Bangkok,45-54,Other,Unaided,-34,5
+R00248,2025-02-15,Bangkok,45-54,Female,Unaided,-30,2
+R00249,2025-03-04,Isan,18-24,Other,No Awareness,45,5
+R00250,2025-03-11,Bangkok,18-24,Female,Unaided,5,4
+R00251,2025-03-31,Isan,25-34,Other,Aided,-94,5
+R00252,2025-02-06,Bangkok,18-24,Other,Unaided,-61,2
+R00253,2025-02-01,South,25-34,Male,Aided,-31,4
+R00254,2025-03-19,Chiang Mai,55+,Female,Unaided,92,1
+R00255,2025-02-23,South,25-34,Male,No Awareness,-33,3
+R00256,2025-03-30,Isan,18-24,Female,No Awareness,-52,2
+R00257,2025-03-11,South,55+,Other,Aided,-49,2
+R00258,2025-03-29,Isan,18-24,Female,Unaided,13,2
+R00259,2025-02-17,Bangkok,25-34,Male,No Awareness,6,4
+R00260,2025-03-06,Bangkok,35-44,Male,Aided,-72,1
+R00261,2025-03-31,Isan,45-54,Male,Aided,48,5
+R00262,2025-03-13,South,18-24,Female,Aided,-23,1
+R00263,2025-03-01,Bangkok,25-34,Male,Unaided,-92,4
+R00264,2025-02-09,Chiang Mai,55+,Male,Unaided,74,2
+R00265,2025-02-13,Bangkok,18-24,Male,Aided,-25,3
+R00266,2025-02-06,Chiang Mai,18-24,Other,Unaided,-59,2
+R00267,2025-02-06,South,45-54,Other,Aided,78,5
+R00268,2025-02-20,Chiang Mai,25-34,Female,Aided,83,3
+R00269,2025-03-24,Chiang Mai,35-44,Female,No Awareness,78,2
+R00270,2025-03-25,Chiang Mai,55+,Male,No Awareness,97,3
+R00271,2025-02-03,Chiang Mai,25-34,Other,No Awareness,27,1
+R00272,2025-02-17,Bangkok,55+,Male,Unaided,-81,4
+R00273,2025-03-21,Chiang Mai,18-24,Male,Unaided,54,2
+R00274,2025-02-12,Bangkok,45-54,Other,Aided,65,5
+R00275,2025-03-20,Chiang Mai,45-54,Other,Unaided,-29,1
+R00276,2025-03-19,Isan,35-44,Other,Unaided,-36,2
+R00277,2025-03-17,South,45-54,Female,Aided,81,1
+R00278,2025-03-27,Chiang Mai,18-24,Female,Aided,12,5
+R00279,2025-02-01,Isan,35-44,Male,No Awareness,-77,2
+R00280,2025-02-17,Chiang Mai,25-34,Female,Unaided,27,5
+R00281,2025-02-03,Chiang Mai,45-54,Other,Unaided,74,3
+R00282,2025-02-26,Chiang Mai,35-44,Other,Unaided,98,5
+R00283,2025-02-15,Isan,18-24,Female,No Awareness,-18,3
+R00284,2025-03-08,South,55+,Male,Aided,-38,2
+R00285,2025-03-04,Isan,55+,Male,No Awareness,84,3
+R00286,2025-03-04,South,18-24,Female,No Awareness,82,2
+R00287,2025-02-04,Chiang Mai,18-24,Male,Aided,-41,2
+R00288,2025-02-18,Bangkok,55+,Male,Aided,-2,4
+R00289,2025-03-21,Chiang Mai,35-44,Male,Unaided,-39,2
+R00290,2025-02-19,South,55+,Other,Aided,-71,3
+R00291,2025-03-15,Isan,18-24,Other,Aided,-79,4
+R00292,2025-03-24,Chiang Mai,45-54,Female,Aided,25,4
+R00293,2025-03-07,Isan,25-34,Other,No Awareness,56,2
+R00294,2025-03-12,Isan,45-54,Male,No Awareness,68,5
+R00295,2025-02-14,Isan,45-54,Other,Aided,-59,5
+R00296,2025-03-30,Chiang Mai,18-24,Female,Aided,-3,4
+R00297,2025-03-05,Isan,55+,Other,Aided,92,2
+R00298,2025-02-14,Isan,35-44,Male,Unaided,-70,5
+R00299,2025-03-06,Chiang Mai,45-54,Male,Unaided,57,2
+R00300,2025-03-27,Isan,55+,Female,Aided,11,2
+R00301,2025-02-04,Chiang Mai,35-44,Other,Aided,45,4
+R00302,2025-02-24,South,45-54,Other,Unaided,21,4
+R00303,2025-03-31,South,35-44,Other,No Awareness,-84,1
+R00304,2025-03-01,South,55+,Male,Unaided,-63,5
+R00305,2025-02-19,Isan,25-34,Female,Unaided,41,5
+R00306,2025-02-06,Bangkok,55+,Other,Aided,9,5
+R00307,2025-03-29,Bangkok,18-24,Male,Unaided,83,3
+R00308,2025-03-05,Isan,35-44,Male,Unaided,-79,2
+R00309,2025-03-21,Bangkok,25-34,Male,Unaided,94,4
+R00310,2025-03-12,Chiang Mai,35-44,Other,Aided,-45,5
+R00311,2025-02-19,Bangkok,35-44,Other,Aided,18,1
+R00312,2025-03-25,Isan,45-54,Other,Aided,46,5
+R00313,2025-02-01,Isan,18-24,Other,Aided,-44,2
+R00314,2025-02-05,Chiang Mai,35-44,Other,Unaided,71,2
+R00315,2025-02-27,South,55+,Other,No Awareness,-66,4
+R00316,2025-02-16,Isan,55+,Other,Unaided,13,3
+R00317,2025-02-06,Chiang Mai,45-54,Other,No Awareness,24,4
+R00318,2025-03-12,Bangkok,18-24,Other,Aided,28,5
+R00319,2025-02-13,Bangkok,18-24,Male,No Awareness,-49,1
+R00320,2025-03-20,Chiang Mai,55+,Other,Unaided,-16,4
+R00321,2025-03-07,Chiang Mai,25-34,Female,Aided,97,3
+R00322,2025-02-19,Isan,45-54,Male,Unaided,64,4
+R00323,2025-02-12,Bangkok,45-54,Other,Unaided,-36,2
+R00324,2025-02-16,Chiang Mai,55+,Female,Aided,78,5
+R00325,2025-03-31,Bangkok,55+,Other,Unaided,28,5
+R00326,2025-03-15,Chiang Mai,25-34,Female,Aided,-80,5
+R00327,2025-02-10,Bangkok,25-34,Female,Unaided,80,5
+R00328,2025-02-25,South,18-24,Female,Unaided,-85,5
+R00329,2025-02-20,Isan,45-54,Female,Aided,22,5
+R00330,2025-03-03,Bangkok,45-54,Male,Aided,-40,1
+R00331,2025-02-04,South,55+,Male,Aided,-47,3
+R00332,2025-03-16,Bangkok,18-24,Female,Aided,67,5
+R00333,2025-02-23,Bangkok,45-54,Other,No Awareness,-75,3
+R00334,2025-02-02,South,18-24,Female,Unaided,-21,5
+R00335,2025-03-28,Bangkok,18-24,Male,Aided,-36,4
+R00336,2025-02-22,Bangkok,55+,Other,No Awareness,-1,5
+R00337,2025-03-23,Isan,18-24,Male,Aided,-27,2
+R00338,2025-03-29,South,25-34,Male,Aided,91,1
+R00339,2025-03-09,South,25-34,Other,Aided,70,4
+R00340,2025-02-08,Chiang Mai,35-44,Female,Aided,-84,4
+R00341,2025-02-07,Bangkok,55+,Female,Aided,20,2
+R00342,2025-02-14,Isan,35-44,Female,Unaided,86,5
+R00343,2025-03-28,Bangkok,25-34,Female,Unaided,-78,1
+R00344,2025-03-27,Bangkok,35-44,Other,No Awareness,34,4
+R00345,2025-02-03,Chiang Mai,55+,Other,Unaided,71,1
+R00346,2025-03-22,Bangkok,55+,Other,Aided,80,4
+R00347,2025-02-16,Isan,18-24,Male,Aided,-30,5
+R00348,2025-03-27,Isan,45-54,Other,Aided,7,4
+R00349,2025-02-19,Chiang Mai,18-24,Female,Unaided,-22,4
+R00350,2025-03-23,Bangkok,55+,Male,Unaided,61,3
+R00351,2025-02-18,Isan,25-34,Female,No Awareness,-55,5
+R00352,2025-03-24,Bangkok,25-34,Female,No Awareness,95,2
+R00353,2025-02-16,Bangkok,18-24,Other,Aided,-23,2
+R00354,2025-02-08,Bangkok,55+,Other,Aided,-85,5
+R00355,2025-03-05,Chiang Mai,25-34,Female,Aided,-30,2
+R00356,2025-03-21,Bangkok,55+,Female,Aided,-5,5
+R00357,2025-02-12,Isan,25-34,Male,Aided,46,2
+R00358,2025-03-25,Bangkok,55+,Other,Unaided,-99,3
+R00359,2025-02-11,Isan,35-44,Male,Aided,-91,2
+R00360,2025-02-05,Bangkok,55+,Male,Aided,77,4
+R00361,2025-02-27,Isan,55+,Male,No Awareness,24,5
+R00362,2025-02-12,Isan,18-24,Female,Unaided,-20,1
+R00363,2025-02-17,Bangkok,35-44,Male,Aided,39,1
+R00364,2025-02-06,Bangkok,45-54,Male,Aided,-31,5
+R00365,2025-03-05,Isan,18-24,Female,Aided,49,3
+R00366,2025-02-05,South,45-54,Other,Unaided,-69,2
+R00367,2025-03-29,Chiang Mai,25-34,Other,Aided,4,3
+R00368,2025-02-28,South,45-54,Male,Aided,-17,1
+R00369,2025-02-14,South,55+,Female,Unaided,28,5
+R00370,2025-02-05,Bangkok,45-54,Other,Aided,81,5
+R00371,2025-03-26,Chiang Mai,18-24,Male,Aided,-43,3
+R00372,2025-03-28,South,18-24,Male,Aided,97,3
+R00373,2025-03-31,Bangkok,45-54,Female,No Awareness,45,2
+R00374,2025-03-05,South,18-24,Male,Unaided,33,4
+R00375,2025-03-22,South,18-24,Other,Unaided,-56,4
+R00376,2025-03-20,Bangkok,45-54,Female,Aided,-4,2
+R00377,2025-03-13,Bangkok,35-44,Other,Unaided,-78,4
+R00378,2025-02-19,Bangkok,35-44,Other,Unaided,-78,1
+R00379,2025-02-22,Chiang Mai,25-34,Other,Unaided,53,4
+R00380,2025-02-05,South,18-24,Male,Unaided,34,2
+R00381,2025-03-31,Bangkok,45-54,Male,No Awareness,-22,4
+R00382,2025-02-02,Isan,18-24,Other,Unaided,-57,5
+R00383,2025-03-02,South,55+,Other,Aided,-74,3
+R00384,2025-03-19,Isan,18-24,Female,Unaided,-75,1
+R00385,2025-03-11,Chiang Mai,18-24,Female,Aided,-4,5
+R00386,2025-02-04,Bangkok,35-44,Male,Unaided,-65,5
+R00387,2025-03-05,Isan,45-54,Male,Aided,8,2
+R00388,2025-02-13,Chiang Mai,18-24,Female,Aided,-46,3
+R00389,2025-02-20,Bangkok,35-44,Other,Unaided,91,3
+R00390,2025-03-26,Isan,25-34,Male,Aided,84,1
+R00391,2025-02-07,Isan,35-44,Other,Unaided,-32,2
+R00392,2025-02-15,Chiang Mai,35-44,Female,Aided,-40,1
+R00393,2025-02-23,Bangkok,35-44,Male,Unaided,29,4
+R00394,2025-02-14,Bangkok,18-24,Male,No Awareness,-46,5
+R00395,2025-02-23,Isan,18-24,Female,Unaided,21,1
+R00396,2025-02-19,Isan,25-34,Male,Aided,-4,5
+R00397,2025-03-26,Isan,55+,Female,Unaided,-21,2
+R00398,2025-03-01,Bangkok,55+,Male,Unaided,-14,4
+R00399,2025-03-28,Chiang Mai,55+,Female,Aided,-63,2
+R00400,2025-02-20,Chiang Mai,25-34,Male,No Awareness,18,4
+R00401,2025-03-01,Bangkok,55+,Other,Unaided,-23,4
+R00402,2025-02-24,South,55+,Other,Unaided,56,5
+R00403,2025-02-18,Chiang Mai,35-44,Other,Unaided,53,2
+R00404,2025-02-10,Isan,18-24,Male,Unaided,-66,2
+R00405,2025-03-13,South,18-24,Male,Unaided,-22,1
+R00406,2025-03-29,South,35-44,Other,Aided,-34,2
+R00407,2025-02-08,Chiang Mai,35-44,Other,Unaided,-14,1
+R00408,2025-02-26,South,35-44,Female,Unaided,56,3
+R00409,2025-03-01,South,18-24,Female,Aided,-67,3
+R00410,2025-02-10,Chiang Mai,55+,Female,Aided,-4,3
+R00411,2025-02-17,Chiang Mai,35-44,Other,Unaided,68,2
+R00412,2025-02-02,South,25-34,Other,Unaided,68,2
+R00413,2025-02-06,Isan,35-44,Other,Aided,50,1
+R00414,2025-03-30,Bangkok,45-54,Female,Unaided,-30,4
+R00415,2025-02-05,South,35-44,Male,Aided,-98,1
+R00416,2025-02-28,South,18-24,Other,Unaided,-43,3
+R00417,2025-03-13,Isan,35-44,Male,Aided,-69,1
+R00418,2025-02-05,South,45-54,Male,Unaided,-70,4
+R00419,2025-02-18,South,25-34,Male,Aided,-19,2
+R00420,2025-02-26,Bangkok,55+,Female,No Awareness,-58,1
+R00421,2025-02-20,Bangkok,35-44,Male,Aided,34,3
+R00422,2025-03-13,Bangkok,45-54,Other,Unaided,4,3
+R00423,2025-03-21,Chiang Mai,45-54,Female,Unaided,-100,2
+R00424,2025-02-27,Chiang Mai,25-34,Other,Unaided,-40,1
+R00425,2025-03-21,Bangkok,18-24,Other,Unaided,-87,4
+R00426,2025-02-12,Bangkok,35-44,Female,Unaided,79,2
+R00427,2025-02-07,Chiang Mai,45-54,Other,Aided,-95,1
+R00428,2025-03-31,Isan,25-34,Other,Aided,2,5
+R00429,2025-02-03,South,55+,Female,Aided,-91,3
+R00430,2025-02-10,South,45-54,Other,Aided,-30,4
+R00431,2025-03-06,Bangkok,25-34,Male,Aided,-11,4
+R00432,2025-02-25,Isan,18-24,Other,Unaided,57,4
+R00433,2025-03-07,Chiang Mai,18-24,Male,No Awareness,48,3
+R00434,2025-02-16,Bangkok,45-54,Other,Unaided,25,1
+R00435,2025-02-02,Isan,45-54,Female,Aided,87,2
+R00436,2025-02-24,Isan,35-44,Female,Aided,-4,1
+R00437,2025-02-10,Isan,25-34,Other,Aided,-27,2
+R00438,2025-03-10,Chiang Mai,45-54,Female,Aided,14,4
+R00439,2025-02-22,Chiang Mai,35-44,Other,Unaided,90,1
+R00440,2025-02-26,South,35-44,Female,Aided,69,4
+R00441,2025-03-15,South,45-54,Male,Aided,-50,5
+R00442,2025-03-27,Isan,18-24,Other,Aided,91,4
+R00443,2025-03-11,Isan,25-34,Male,No Awareness,-45,4
+R00444,2025-02-27,Chiang Mai,25-34,Male,Unaided,-60,2
+R00445,2025-03-01,South,18-24,Other,Unaided,-69,5
+R00446,2025-03-19,Isan,45-54,Male,Unaided,-86,4
+R00447,2025-03-10,South,25-34,Other,Unaided,-39,4
+R00448,2025-02-20,South,45-54,Male,Aided,54,5
+R00449,2025-02-27,Isan,45-54,Other,Aided,-73,5
+R00450,2025-03-13,Chiang Mai,35-44,Other,Aided,-37,1
+R00451,2025-03-26,Isan,18-24,Female,No Awareness,86,2
+R00452,2025-02-20,Isan,45-54,Other,No Awareness,85,5
+R00453,2025-03-16,South,55+,Other,No Awareness,29,5
+R00454,2025-02-19,Isan,18-24,Male,Unaided,26,3
+R00455,2025-02-20,Chiang Mai,25-34,Other,Aided,-65,5
+R00456,2025-03-07,Isan,35-44,Female,Unaided,13,2
+R00457,2025-03-19,Chiang Mai,25-34,Male,Unaided,98,4
+R00458,2025-02-02,Chiang Mai,25-34,Male,Aided,-88,4
+R00459,2025-03-02,South,18-24,Female,Unaided,-86,4
+R00460,2025-03-25,Bangkok,25-34,Male,Unaided,-12,4
+R00461,2025-03-06,Bangkok,45-54,Male,Unaided,87,3
+R00462,2025-02-22,South,25-34,Male,Unaided,-79,5
+R00463,2025-02-03,Isan,35-44,Male,No Awareness,90,4
+R00464,2025-02-06,South,35-44,Female,Unaided,-27,1
+R00465,2025-02-15,Chiang Mai,55+,Female,Unaided,-76,4
+R00466,2025-02-27,Bangkok,35-44,Male,Aided,0,5
+R00467,2025-02-10,South,25-34,Male,Aided,75,4
+R00468,2025-02-09,Isan,35-44,Female,No Awareness,70,3
+R00469,2025-03-05,South,18-24,Female,Unaided,16,2
+R00470,2025-03-04,Bangkok,35-44,Female,Aided,65,2
+R00471,2025-03-20,South,45-54,Male,Aided,-60,5
+R00472,2025-02-06,South,18-24,Male,No Awareness,72,2
+R00473,2025-03-13,Bangkok,55+,Other,Aided,-13,2
+R00474,2025-03-31,Chiang Mai,45-54,Female,No Awareness,67,1
+R00475,2025-03-08,Chiang Mai,25-34,Male,Unaided,9,5
+R00476,2025-03-31,Bangkok,25-34,Female,Aided,19,5
+R00477,2025-02-02,South,25-34,Male,Aided,-4,2
+R00478,2025-03-01,Bangkok,45-54,Female,No Awareness,44,2
+R00479,2025-02-04,Chiang Mai,45-54,Male,Unaided,-44,2
+R00480,2025-02-01,Isan,45-54,Other,Unaided,29,3
+R00481,2025-02-19,South,18-24,Other,Unaided,-5,4
+R00482,2025-02-26,Chiang Mai,18-24,Female,Unaided,20,3
+R00483,2025-02-25,South,25-34,Male,Unaided,-39,5
+R00484,2025-02-10,Bangkok,35-44,Male,No Awareness,36,1
+R00485,2025-03-25,Isan,25-34,Female,Aided,-33,4
+R00486,2025-02-15,Bangkok,55+,Male,Aided,-20,1
+R00487,2025-03-31,Isan,18-24,Female,Aided,-84,5
+R00488,2025-02-22,South,45-54,Male,Aided,16,5
+R00489,2025-03-23,South,18-24,Female,Unaided,-51,1
+R00490,2025-03-20,Bangkok,45-54,Male,Unaided,11,1
+R00491,2025-02-21,Isan,55+,Female,Unaided,-7,1
+R00492,2025-03-31,Isan,55+,Male,Aided,67,5
+R00493,2025-03-28,South,18-24,Other,Aided,85,2
+R00494,2025-02-22,Bangkok,45-54,Male,Unaided,-16,1
+R00495,2025-03-08,Isan,55+,Female,Aided,48,4
+R00496,2025-03-06,South,25-34,Other,No Awareness,45,5
+R00497,2025-03-02,Chiang Mai,25-34,Male,No Awareness,82,3
+R00498,2025-02-25,Bangkok,45-54,Other,No Awareness,56,3
+R00499,2025-03-17,Chiang Mai,18-24,Male,Aided,51,4
+R00500,2025-02-28,Bangkok,55+,Other,Unaided,-27,2
