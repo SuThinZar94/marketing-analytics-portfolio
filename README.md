@@ -5,7 +5,7 @@ Focus area: **Digital Campaign Performance** (with room for Sales & Survey in fu
 
 ## Goals
 - Showcase practical skills across **Python** (pandas, matplotlib) and **dashboarding** (Power BI/Tableau screenshots).
-- Present clear, recruiter-friendly **case studies** and **visuals**.
+- Present clear, **case studies** and **visuals**.
 - Provide reproducible analysis with clear structure and documentation.
 
 ## Repository Structure
