@@ -12,10 +12,13 @@
 3. Trend & distribution charts
 4. Insights + recommendations
 
-## Key Findings (example placeholders)
-- TikTok showed the **highest ROAS** in early March driven by lower CPC.
-- Google had the **most stable CTR**, suitable for always-on acquisition.
-- Facebook performed better on **mobile placements**; desktop had higher CPC.
+## Key Findings
+- Overall CTR averaged ~[5.01]% in Q1 (range [min2.07]%–[max17.77]%), with a [upward/downward/flat] trend across the quarter.
+- March outperformed January by ~[Δ0.12%] (avg CTR [Mar5.11]% vs [Jan5.23]%), suggesting positive impact from [new creative/bid changes/targeting tweak].
+- Top spike(s) on [2025-03-02, 2025-01-02] reached [peak0.177689]% CTR; investigate what changed on those days to replicate.
+- Volatility is [low/medium/high] (stdev [s2.31]%; coeff. of variation [cv46.2]%). Plan A/B tests to stabilize performance.
+
+Under-performing dips below [threshold]% occurred on [list 2–3 dates]; consider pausing weak adsets/creatives or reallocating budget.
 
 > Replace these with your real insights after running the notebook.
 
@@ -27,3 +30,6 @@
 ## Artifacts
 - Notebook: `notebooks/01_campaign_performance.ipynb`
 - Visuals: add PNG exports to `/visuals` and embed below.
+
+
+[Open full-size chart](../visuals/daily_ctr.png)
