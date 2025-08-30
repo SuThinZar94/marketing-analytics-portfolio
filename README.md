@@ -1,6 +1,6 @@
 # Marketing Analytics Portfolio (Dummy Data)
 
-A clean, professional portfolio demonstrating **marketing analytics** using **dummy data** inspired by real-world scenarios.
+A portfolio demonstrating **marketing analytics** using **dummy data** inspired by real-world scenarios.
 Focus area: **Digital Campaign Performance** (with room for Sales & Survey in future commits).
 
 ## Goals
