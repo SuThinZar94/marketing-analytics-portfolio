@@ -3,12 +3,12 @@
 A clean, professional portfolio demonstrating **marketing analytics** using **dummy data** inspired by real-world scenarios.
 Focus area: **Digital Campaign Performance** (with room for Sales & Survey in future commits).
 
-## 🎯 Goals
+## Goals
 - Showcase practical skills across **Python** (pandas, matplotlib) and **dashboarding** (Power BI/Tableau screenshots).
 - Present clear, recruiter-friendly **case studies** and **visuals**.
 - Provide reproducible analysis with clear structure and documentation.
 
-## 🧱 Repository Structure
+## Repository Structure
 ```
 .
 ├── data/
@@ -23,12 +23,12 @@ Focus area: **Digital Campaign Performance** (with room for Sales & Survey in fu
 └── .github/workflows/          # CI for notebook rendering, linting (optional)
 ```
 
-## 🔧 Tools
+## Tools
 - **Python:** pandas, numpy, matplotlib
 - **Dashboards:** Power BI / Tableau (screenshots in `/visuals`)
 - **Docs:** Markdown + GitHub Pages
 
-## 🚀 Quickstart
+## Quickstart
 1. Clone the repo
 2. (Optional) Create a virtual environment
 3. Install dependencies:
@@ -40,13 +40,13 @@ Focus area: **Digital Campaign Performance** (with room for Sales & Survey in fu
    jupyter notebook notebooks/01_campaign_performance.ipynb
    ```
 
-## 📚 Featured Case Study
+## Featured Case Study
 - **Campaign Performance Deep Dive (Q1 Sample)** → [`case-studies/case_campaign_q1.md`](case-studies/case_campaign_q1.md)
 
-## 🔒 Data Ethics
+## Data Ethics
 All datasets are **synthetic** and anonymized for portfolio purposes only.
 
 ---
 
-**Author:** Your Name  
+**Author:** Su Thin Zar Hlaing  
 **Last updated:** 2025-08-30
